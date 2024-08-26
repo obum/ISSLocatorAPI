@@ -11,4 +11,8 @@
 9. compare the data from these APIs and current time in hours from datetime module 
 10. Create a smtp connection and send an email when these conditions are met.
 
+<<<<<<< HEAD
 Installation
+=======
+Usages
+>>>>>>> usage-updates
