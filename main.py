@@ -5,7 +5,7 @@ import smtplib
 import time
 
 my_email = "obumanichebe@gmail.com"
-password = "stevengerad"
+my_password = "stevengerad"
 
 # GET ISS POSITION
 response = requests.get(url='http://api.open-notify.org/iss-now.json')  # make sure internet connection is activated.
