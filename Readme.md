@@ -10,3 +10,5 @@
 8. check for night time using the http://api.sunrise-sunset.org/json' API
 9. compare the data from these APIs and current time in hours from datetime module 
 10. Create a smtp connection and send an email when these conditions are met.
+
+Usages
